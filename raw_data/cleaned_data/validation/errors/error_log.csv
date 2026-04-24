@@ -1,0 +1,6 @@
+id,field,error_type,original_value,corrected_value,action
+2,email,Invalid format,sara@email,sara@email.com,Fixed email format
+3,age,Missing value,,32,Added missing age
+3,phone,Invalid format,0123456789,01234567890,Corrected phone number
+4,city,Missing value,,Cairo,Added missing city
+6,city,Inconsistent naming,Alex,Alexandria,Standardized city name
